@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UMRT</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_jadwal">Jadwal</string>
+    <string name="title_realtime">Realtime</string>
+    <string name="title_maps">Maps</string>
+    <string name="title_info">Info</string>
+</resources>
